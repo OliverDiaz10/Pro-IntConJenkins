@@ -1,0 +1,19 @@
+{
+  "name": "calculadorajs",
+  "version": "1.0.0",
+  "description": "Calculadora Basica",
+  "main": "index.js",
+  "scripts": {
+    "test": "testjs.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OliverDiaz10/Pro-IntConJenkins.git"
+  },
+  "author": "Grupo2AS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OliverDiaz10/Pro-IntConJenkins/issues"
+  },
+  "homepage": "https://github.com/OliverDiaz10/Pro-IntConJenkins#readme"
+}
